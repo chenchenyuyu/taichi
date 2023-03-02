@@ -3,6 +3,9 @@
 ### title
 taichi demo
 
+### code
+https://github.com/chenchenyuyu/taichi/tree/master
+
 ### `npm start`
 
 Runs the app in the development mode.\
